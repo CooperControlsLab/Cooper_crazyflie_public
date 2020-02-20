@@ -7,6 +7,8 @@ For the mathematical explanation and design considerations of the different func
 
 The ROS interface and MATLAB files were done using version R2015B. It is necessary to have the Robotic System Toolbox for the communication between MATLAB and ROS.
 
+For matlab simulation to run properly, curve fitting toolbox and simscape electrical needed.
+
 ###Peter Corke's Robotic Toolbox files modified for the Crazyflie 2.0
 ####mdl_quadrotor.m
 Specifies the physical parameters and dimensions of the quad to be used in the Non-linear and linearised mathematical models.
