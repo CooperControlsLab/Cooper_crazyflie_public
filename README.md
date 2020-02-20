@@ -1,5 +1,5 @@
-# crazyflie-public
-Our public repository for the Crazyflie 2.0 nanoquadcopter from Bitcraze
+# Cooper_crazyflie_public
+ROS stack and MATLAB simulation with both PID and LQT controls for Crazyflie 2.1
 
 #### Crazyflie Custom Firmwares
 Contains two different custom firmwares for the Crazyflie 2.0, modified from the original version from Bitcraze found [here](https://github.com/bitcraze/crazyflie-firmware)
